@@ -1,4 +1,7 @@
 
+# Actividad 2
+# Levantar un clúster de Hadoop + YARN + Hive. Hacer pruebas con consultas básicas SQL.
+
 Clonar repositorio donde esta el docker compose que tiene los contenedores con las imagenes de hadoop, de yarn y de hive
 ```bash
 git clone https://github.com/PabloHerreraTajamar/Hadoop-hive
